@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "tubeai-skills": {
+      "source": {
+        "source": "github",
+        "repo": "tubeai-app/tubeai-skills"
+      }
+    }
+  }
+}
